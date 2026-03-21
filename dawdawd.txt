@@ -1,0 +1,3 @@
+
+
+Scaffold-DbContext "Server=sql.ects;Database=ElectricalShop_Kirichenko;User Id=student_09;Password=student_09;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -o Models
